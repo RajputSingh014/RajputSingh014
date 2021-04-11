@@ -1,7 +1,7 @@
 
 [![MasterHead](http://simontoms.net/images/code.jpg)]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajputSingh014&label=Profile%20views&color=129e00&style=plastic" alt="RajputSingh014" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Q3pp9Y6LxBvoI/giphy.gif">
 
 
@@ -9,6 +9,7 @@
 
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=rohandas28) 
 
 
 
@@ -16,7 +17,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputsingh014&label=Profile%20views&color=0e75b6&style=flat" alt="rajputsingh014" /> </p>
+
 
 - 💬 Ask me about **react,vue and gsap**
 
