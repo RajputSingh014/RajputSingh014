@@ -1,6 +1,10 @@
 
 [![MasterHead](http://simontoms.net/images/code.jpg)]
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajputSingh014&label=Profile%20views&color=129e00&style=plastic" alt="RajputSingh014" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Q3pp9Y6LxBvoI/giphy.gif">
+
+
 ### Hi there 👋
 
 
