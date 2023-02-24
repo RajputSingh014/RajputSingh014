@@ -14,11 +14,12 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Satyam Singh</h1>
+
 <h3 align="center">A passionate full Stack developer from India</h
+ 
 
 
-- ⚡ Fun fact **I think I am funny**
+-⚡ Fun fact **I think I am funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +27,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajputsingh014&show_icons=true&locale=en&layout=compact" alt="rajputsingh014" /></p>
 
+# <h1 align="center"/> Hi there, I am [Rana Satyam] 👋
+<!-- <img width="20%" src="https://i.imgur.com/u2WLlB8.gif" /> -->
+Howdy, I'm Rana Satyam Pratap Singh. I'm a passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects. I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favourite creators. Playing with new software and apps acts like dopamine for me.
 
 ---
 ## 👥 Connect With Me
