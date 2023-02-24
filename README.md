@@ -35,6 +35,39 @@
 **Connect with Me**
 ---
 [<img align="left" alt="Twitter - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/RANASatyam014) [<img align="left" alt="Instagram - Satyam_Singh" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/Satyam_Sing.h) [<img align="left" alt="LinkedIn - Satyam_Singh" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/) [<img align="left" alt="YouTube" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733590.svg" />](https://www.youtube.com) [<img align="left" alt="Email -Satyam_Singh" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:satyamasd12@yahoo.com)
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/bulma-cyan?style=for-the-badge&logo=bulma&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+</p>
+
+ **Tools**
+ 
+<img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/VSCode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Atom.svg"/>|<img alt="WordPress" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/WP.svg"/>
+ |--|--|--|--|--|
+ 
+ **Designing and Photo Editing**
+ 
+<img alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/PS.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/LR.svg"/>|<img alt="Adobe Illustrator" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/AI.svg"/>|<img alt="Adobe XD" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/XD.svg"/>|<img alt="Figma" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Figma.svg"/>|<img alt="Gimp" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Gimp.svg"/>
+ |--|--|--|--|--|-
+
+
+**Video & Sound Editing**
+
+
+<img alt="Adobe Premiere Pro" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/PremierePro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/AfterEffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Audition.svg"/>
+|--|--|--|
 
 ## 📊 Github Status
 <p><img src="https://github-readme-stats.vercel.app/api?username=RanaSatyam&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
