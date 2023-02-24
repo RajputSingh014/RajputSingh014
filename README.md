@@ -77,6 +77,8 @@
 
 <img alt="Adobe Premiere Pro" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/PremierePro.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/AfterEffects.svg"/>|<img alt="Adobe Audition" width="30px" src="https://raw.githubusercontent.com/harsh98trivedi/harsh98trivedi/master/icons/Audition.svg"/>
 |--|--|--|
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ## 📊 Github Status
 <p><img src="https://github-readme-stats.vercel.app/api?username=satyamkr80&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
