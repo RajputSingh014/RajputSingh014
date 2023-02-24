@@ -36,4 +36,5 @@
 ---
 [<img align="left" alt="Twitter - Rohan Das" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/RANASatyam014) [<img align="left" alt="Instagram - Satyam_Singh" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/Satyam_Sing.h) [<img align="left" alt="LinkedIn - Satyam_Singh" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/) [<img align="left" alt="YouTube" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733590.svg" />](https://www.youtube.com) [<img align="left" alt="Email -Satyam_Singh" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:satyamasd12@yahoo.com)
 
-
+## 📊 Github Status
+<p><img src="https://github-readme-stats.vercel.app/api?username=harsh98trivedi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
