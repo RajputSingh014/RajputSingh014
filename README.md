@@ -15,13 +15,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate full Stack developer from India</h
 
-
-
-- 💬 Ask me about **react,vue and gsap**
-
-- 📫 How to reach me **satyamasd12@yahoo.com**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -32,7 +27,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajputsingh014&show_icons=true&locale=en&layout=compact" alt="rajputsingh014" /></p>
 
 
-**Connect with Me**
 ---
 ## 👥 Connect With Me
 <a href="https://www.facebook.com//"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -45,6 +39,11 @@
 <a href="http://reddit.com/u/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.behance.net/"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]
 (https://buymeacoffee.com/) 
+## 💫 Liitle Bit More About Me
+<p>🌱
+<p>💬 Ask me about Front-End Development, Jekyll, Graphic Designing</p>
+<p>📫 How to reach me? <a href="satyamasd12@yahoo.com">Mail</a></p>
+<p>⚡ Fun Fact: I love memes</p>
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
