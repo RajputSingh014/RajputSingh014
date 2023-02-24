@@ -71,3 +71,6 @@
 
 ## 📊 Github Status
 <p><img src="https://github-readme-stats.vercel.app/api?username=RanaSatyam&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh98trivedi"><p>
+</p>
+[![](https://visitcount.itsvg.in/api?id=harsh98trivedi&icon=5&color=12)](https://visitcount.itsvg.in)
