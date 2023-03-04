@@ -85,7 +85,7 @@ Howdy, I'm Rana Satyam Pratap Singh. I'm a passionate Tech Lover Inspired by Ima
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ## 📊 Github Status
-<p><img src="https://github-readme-stats.vercel.app/api?username=pksatyam777&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=satyamkr80&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh98trivedi"><p>
 </p>
 
