@@ -89,5 +89,5 @@ Howdy, I'm Rana Satyam Pratap Singh. I'm a passionate Tech Lover Inspired by Ima
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh98trivedi"><p>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Harsh98trivedi&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harsh98trivedi&icon=5&color=12)](https://visitcount.itsvg.in)
 
