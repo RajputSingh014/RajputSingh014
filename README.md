@@ -84,6 +84,9 @@ Howdy, I'm Rana Satyam Pratap Singh. I'm a passionate Tech Lover Inspired by Ima
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## 📊 Github Status
 <p><img src="https://github-readme-stats.vercel.app/api?username=satyamkr80&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh98trivedi"><p>
